@@ -8,9 +8,9 @@ fn main() {
 
    let mut guess = String::new();
 
-   io::stdin()
-   .read_line(&mut guess)
-   .expect("Failed to read line");
+   io::stdin()//標準入力
+   .read_line(&mut guess)//共有参照guessに束縛
+   .expect("Failed to read line");//エラーハンドリング
 
    println!("You guessd: {}", guess);
 //>>>>スコープ
