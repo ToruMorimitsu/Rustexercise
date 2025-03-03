@@ -1,1 +1,1 @@
-C:\Users\ttooo\rustproject\hello_cargo\target\debug\a.exe: C:\Users\ttooo\rustproject\hello_cargo\src\bin\a.rs
+C:\users\ttooo\rustproject\hello_cargo\target\debug\a.exe: C:\users\ttooo\rustproject\hello_cargo\src\bin\a.rs
